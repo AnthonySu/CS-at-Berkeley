@@ -9,3 +9,7 @@ In CS 61A, we are interested in teaching you about programming, not about how to
 
 Mastery of a particular programming language is a useful side effect of 61A. However, our hope is that once you have learned the essence of programming, you will find that picking up a new programming language is but a few days' work.
 
+Project 1 Hog: http://61a-su15-website.github.io/proj/hog/ 
+Project 2 Maps: http://61a-su15-website.github.io/proj/maps/ 
+Project 3 Ants: http://61a-su15-website.github.io/proj/ants/
+Project 4 Scheme: http://61a-su15-website.github.io/proj/ants/ 
